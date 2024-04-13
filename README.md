@@ -5,9 +5,9 @@
 
 I'm an experienced IT professional with an interest in technology and dedicated to solving problems.
 
-##Objective
+## Objective
 [Objective]
-My journey has led me to develop a passion for system engineer, system admin or cybersecurity. I am 
+My journey has led me to develop a passion for dev ops and cybersecurity. I am eager to continue to transition into these fields. 
 
 
 
@@ -41,7 +41,7 @@ My journey has led me to develop a passion for system engineer, system admin or 
 [linkedin]: https://www.linkedin.com/in/matthew-esmaieli-57718ba7
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mando2024/mando2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
