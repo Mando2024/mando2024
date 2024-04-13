@@ -1,12 +1,13 @@
 <h1>Hi, I'm Matt! <br/><a href="https://github.com/mando2024">IT Professional</a>, <a href="https://www.linkedin.com/in/matthew-esmaieli-57718ba7/">Cybersecurity Professional</a></h1>
 
 ## Introduction
-[Brief Introduction]
+
 
 I'm an experienced IT professional with an interest in technology and dedicated to solving problems.
 
 ## Objective
-[Objective]
+
+
 My journey has led me to develop a passion for dev ops and cybersecurity. I am eager to continue to transition into these fields. 
 
 
