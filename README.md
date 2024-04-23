@@ -16,6 +16,7 @@ My journey has led me to develop a passion for dev ops and cybersecurity. I am e
 - <b>Attacking Active Directory Lab</b>
 - <b>Nessus Vulnerability Scanner</b> 
 - <b>Burp Suite</b>
+- <b>Pass the Hash</b>
 
 
  
