@@ -13,9 +13,9 @@ My journey has led me to develop a passion for dev ops and cybersecurity. I am e
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b> Attacking Active Directory Lab</b>
-- <b> Nessus Vulnerability Scanner Lab</b>
-- <b> Burp Suite</b>
+- <b> Attacking Active Directory Lab </b>
+- <b> Nessus Vulnerability Scanner Lab </b>
+- <b> Burp Suite </b>
 
  
 <h2>👨‍💻 IT Projects:</h2>
