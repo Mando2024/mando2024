@@ -14,14 +14,14 @@ My journey has led me to develop a passion for dev ops and cybersecurity. I am e
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Attacking Active Directory Lab</b>
-- <b>Nessus Vulnerability Scanner Lab</b>
+- <b>Nessus Vulnerability Scanner</b> 
 - <b>Burp Suite</b>
 
 
  
 <h2>👨‍💻 IT Projects:</h2>
 - <b>Active Directory Home Lab Build</b> (https://github.com/Mando2024/ActiveDirectoryLab)
-- <b>Test</b>
+
 
 <h2>👨‍💻 Cloud:</h2>
 - <b> EC2 Instance creation</b>
