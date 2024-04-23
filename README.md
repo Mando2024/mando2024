@@ -29,6 +29,9 @@ My journey has led me to develop a passion for dev ops and cybersecurity. I am e
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+<h2>👨‍💻 IT Projects:</h2>
+- [Active Directory Home Lab] (
 
 <h2>👨‍💻 Cloud:</h2>
 
