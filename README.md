@@ -17,7 +17,7 @@ My journey has led me to develop a passion for dev ops and cybersecurity. I am e
 
  
 <h2>👨‍💻 IT Projects:</h2>
-- [<b>Active Directory Home Lab</b> (https://github.com/Mando2024/ActiveDirectoryLab
+- <b>Active Directory Home Lab</b> (https://github.com/Mando2024/ActiveDirectoryLab
 
 <h2>👨‍💻 Cloud:</h2>
 
