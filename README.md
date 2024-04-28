@@ -33,7 +33,7 @@ My journey has led me to develop a passion for dev ops and cybersecurity. I am e
 
  <b> (IAM) Identity Access Management</b>
 
- <b> S3 Hands on</b>
+ <b> S3 Hands on with Bucket Policy Configuration</b>
 
 
 <h2> 🤳 Connect with me:</h2>
