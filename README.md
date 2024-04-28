@@ -25,11 +25,13 @@ My journey has led me to develop a passion for dev ops and cybersecurity. I am e
 
 
 <h2>👨‍💻 Cloud:</h2>
-- <b> EC2 Instance creation</b>
+ <b> EC2 Instance creation</b>
 
-- <b> CloudWatch Logs</b>
+ <b> CloudWatch Logs</b>
 
-- <b> Lambda </b>
+ <b> Lambda </b>
+
+<b> (IAM) Identity Access Management</b>
 
 
 <h2> 🤳 Connect with me:</h2>
