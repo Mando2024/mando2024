@@ -23,6 +23,8 @@ My journey has led me to develop a passion for dev ops and cybersecurity. I am e
 
 - <b>Kerberoasting </b>
 
+- <b>Suricata </b>
+
 
  
 <h2>👨‍💻 IT Projects:</h2>
